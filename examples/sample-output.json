@@ -1,0 +1,77 @@
+[
+  {
+    "extensionId": "hpfmedbkgaakgagknibnonpkimkibkla",
+    "name": "Copper CRM for Gmail and LinkedIn",
+    "url": "https://chromewebstore.google.com/detail/hpfmedbkgaakgagknibnonpkimkibkla",
+    "shortDescription": "You live in Google Workspace™. So should your CRM.",
+    "category": "Workflow & Planning",
+    "users": 40000,
+    "rating": 3.6,
+    "ratingsCount": 387,
+    "version": "2.0.521",
+    "updated": "November 16, 2026",
+    "size": "10.06MiB",
+    "languages": "English",
+    "developer": {
+      "name": "Copper CRM Inc.",
+      "address": "2021 Fillmore St PMB2118 San Francisco, CA 94115 US",
+      "website": "https://copper.com",
+      "email": "support+crx@copper.com",
+      "phone": "+1 415-231-6360",
+      "isTrader": true,
+      "dunsNumber": "078644995"
+    },
+    "icon": "https://lh3.googleusercontent.com/vIZIrI1N2XDDsbBGN9lpfqBJd_NY_M1diPqO8Rpop8Ce8pUKHHv1gSOe0taoDiWcXGDnq9a1rNbLiFk6pHs8X2jB_Q=s128-rj-sc0x00ffffff",
+    "foundVia": "search: crm"
+  },
+  {
+    "extensionId": "pnnfemgpilpdaojpnkjdgfgbnnjojfik",
+    "name": "Streak CRM for Gmail",
+    "url": "https://chromewebstore.google.com/detail/pnnfemgpilpdaojpnkjdgfgbnnjojfik",
+    "shortDescription": "Manage sales and customer relationships directly inside Gmail.",
+    "category": "Workflow & Planning",
+    "users": 700000,
+    "rating": 4.3,
+    "ratingsCount": 6500,
+    "version": "7.126",
+    "updated": "November 17, 2026",
+    "size": "16.19MiB",
+    "languages": "43 languages Deutsch , English , English (United Kingdom) , English (United States) , Filipino , Indonesia , Kiswahili , Nederlands , Tiếng Việt , Türkçe , català , dansk , eesti , español , español (Latinoamérica) , français , hrvatski , italiano , latviešu , lietuvių , magyar , norsk , polski , português (Brasil) , português (Portugal) , română , slovenčina , slovenščina , suomi , svenska , čeština , Ελληνικά , български , русский , српски , українська , ‫עברית‬‎ , ‫العربية‬‎ , हिन्दी , ไทย , 中文（中国） , 日本語 , 한국어",
+    "developer": {
+      "name": "Streak",
+      "address": "2261 Market St #4067 San Francisco, CA 94114-1612 US",
+      "website": "https://streak.com",
+      "email": "support@streak.com",
+      "phone": null,
+      "isTrader": false,
+      "dunsNumber": null
+    },
+    "icon": "https://lh3.googleusercontent.com/JdJ5bSQB2s8QcF0Eboa1QxdbzG55PaUnNom8TXgskYUQHImXNgvhB23b15zyFpqMDw2YB6ShzVarX9N1opsKsxdvhQ=s128-rj-sc0x00ffffff",
+    "foundVia": "search: crm"
+  },
+  {
+    "extensionId": "jmjcgjmipjiklbnfbdclkdikplgajhgc",
+    "name": "WAPlus CRM - Best AI-Powered Messaging CRM",
+    "url": "https://chromewebstore.google.com/detail/jmjcgjmipjiklbnfbdclkdikplgajhgc",
+    "shortDescription": "Let WAPlus CRM be your most powerful assistant for WA marketing & WA sales, enhanced by the deepseek AI chatbot.",
+    "category": "Social Networking",
+    "users": 70000,
+    "rating": 4.9,
+    "ratingsCount": 4100,
+    "version": "1.8.26",
+    "updated": "November 15, 2026",
+    "size": "14.86MiB",
+    "languages": "66 languages Deutsch , English , English (Australia) , English (United Kingdom) , English (United States) , Filipino , Indonesia , Kiswahili , Melayu , Nederlands , Tiếng Việt , Türkçe , azərbaycan , català , dansk , eesti , español , español (Latinoamérica) , euskara , français , hrvatski , italiano , latviešu , lietuvių , magyar , norsk , o‘zbek , polski , português (Brasil) , português (Portugal) , română , shqip , slovenčina , slovenščina , suomi , svenska , čeština , Ελληνικά , български , македонски , русский , српски , українська , ‫עברית‬‎ , ‫اردو‬‎ , ‫العربية‬‎ , ‫فارسی‬‎ , नेपाली , मराठी , हिन्दी , বাংলা , ਪੰਜਾਬੀ , ગુજરાતી , தமிழ் , తెలుగు , ಕನ್ನಡ , മലയാളം , සිංහල , ไทย , မြန်မာ , ქართული , አማርኛ , 中文（中国） , 中文（台灣） , 日本語 , 한국어",
+    "developer": {
+      "name": null,
+      "address": null,
+      "website": "https://waplus.io/",
+      "email": "v***@gmail.com",
+      "phone": null,
+      "isTrader": false,
+      "dunsNumber": null
+    },
+    "icon": "https://lh3.googleusercontent.com/EpgiyIkgXeKnogkqt8L8ct5D6IGx_3XHXy0vGeW9xj-_xPaGi7VEbkG_y_9l1OtjgwoDU6XnpW_QW-fZJPvMNnEtpng=s128-rj-sc0x00ffffff",
+    "foundVia": "search: crm"
+  }
+]
